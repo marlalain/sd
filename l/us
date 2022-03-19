@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+setxkbmap us
+echo "Changed keyboard mapping to US"

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+setxkbmap br
+echo "Changed keyboard mapping to PT-BR"
